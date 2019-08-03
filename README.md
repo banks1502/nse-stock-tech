@@ -5,9 +5,10 @@ This used dash python to create dynamic graph of nse using yahoo data
 Visual available on https://nse-stock-tech.herokuapp.com/
 
 Steps are:
-heroku create -n "<heroku app name>"
-heroku git:remote "<heroku app name>"
-git init
-git add <filename>
-git commit -m "<comment>"
-git push heroku master
+
+1. heroku create -n "<heroku app name>"
+2. heroku git:remote "<heroku app name>"
+3. git init
+4. git add <filename>
+5. git commit -m "<comment>"
+6. git push heroku master
