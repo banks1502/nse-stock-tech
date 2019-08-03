@@ -6,9 +6,9 @@ Visual available on https://nse-stock-tech.herokuapp.com/
 
 Steps are:
 
-1. heroku create -n "<heroku app name>"
-2. heroku git:remote "<heroku app name>"
+1. heroku create -n "nse-stock-tech"
+2. heroku git:remote "nse-stock-tech"
 3. git init
-4. git add <filename>
-5. git commit -m "<comment>"
+4. git add .
+5. git commit -m "Inital"
 6. git push heroku master
